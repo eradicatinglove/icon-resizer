@@ -97,15 +97,6 @@ Compatible with:
   to start on older PCs (due to PySide6 load).
 
 -------------------------------------------
-  CREDITS
--------------------------------------------
-
-Tool and interface by:
-    The OTher Side
-
-AI-assisted development through ChatGPT
-
--------------------------------------------
   NOTES
 -------------------------------------------
 
